@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  padding: 1rem;
+  /*max-width: 700px;*/
+  margin: auto;
+  color: #111;
+  background: #fff;
+  line-height: 1.6;
+}
+
+nav {
+  display: flex;
+  justify-content: left;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  font-size: 1.2rem;
+}
+
+a {
+  text-decoration: none;
+  color: #007acc;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding-bottom: 2rem;
+}
