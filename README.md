@@ -1,2 +1,2 @@
-# AI Must Die
+# AI Must Die 🔪🤖
 
